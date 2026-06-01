@@ -1,4 +1,4 @@
-//package Week 1.Day 1;
+//cpackage Week 1.Day 1;
 
 public class BestTimeToBuyAndSellStock {
     class Solution {
