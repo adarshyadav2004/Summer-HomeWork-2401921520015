@@ -219,7 +219,4 @@ class Solution {
 
 ---
 ## Author
-ADARSH KUMAR
-
-
-Java Data Structures & Algorithms Practice Repository
+ADARSH kr

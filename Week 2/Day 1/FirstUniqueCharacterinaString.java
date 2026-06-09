@@ -1,4 +1,3 @@
-public class FirstUniqueCharacterinaString {
     class Solution {
     public int firstUniqChar(String s) {
         int[] count=new int[26];
@@ -12,6 +11,4 @@ public class FirstUniqueCharacterinaString {
         }
         return -1;
     }
-}
-    
 }

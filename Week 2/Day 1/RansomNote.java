@@ -1,4 +1,3 @@
-public class RansomNote {
     class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
         int [] count=new int[26];
@@ -15,6 +14,4 @@ public class RansomNote {
         }
         return true;
     }
-}
-    
 }

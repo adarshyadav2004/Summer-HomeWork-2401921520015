@@ -1,5 +1,4 @@
 import java.util.*;
-public class ValidAnagram {
     class Solution {
     public boolean isAnagram(String s, String t) {
         if(s.length()!=t.length()){
@@ -16,6 +15,4 @@ public class ValidAnagram {
        return Arrays.equals(a,b);
 
     }
-}
-    
 }
