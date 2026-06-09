@@ -68,7 +68,7 @@ public class LibraryU{
 
         AdultUser adult = new AdultUser();
 
-        adult.age = 5;
+        adult.age = 8;
         adult.registerAccount();
 
         adult.age = 23;
