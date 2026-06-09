@@ -1,4 +1,3 @@
-public class MoveZeroes {
     class Solution {
     public void moveZeroes(int[] nums) {
         int start = 0;
@@ -14,6 +13,4 @@ public class MoveZeroes {
             end++;
         }
     }
-}
-    
 }

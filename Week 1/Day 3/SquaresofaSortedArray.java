@@ -1,4 +1,3 @@
-public class SquaresofaSortedArray {
     class Solution {
     public int[] sortedSquares(int[] nums) {
         int []ans=new int[nums.length];
@@ -20,6 +19,5 @@ public class SquaresofaSortedArray {
         }
         return ans;
     }
-}
-}
+    }
 

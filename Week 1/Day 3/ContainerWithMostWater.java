@@ -1,4 +1,3 @@
-public class ContainerWithMostWater {
     class Solution {
     public int maxArea(int[] height) {
         int start=0;int end=height.length-1;
@@ -18,6 +17,4 @@ public class ContainerWithMostWater {
         return maxcap;
         
     }
-}
-    
 }
