@@ -1,5 +1,3 @@
-
-public class ValidPalindrome {
     class Solution {
     boolean isAlphaNum(char ch){
             if((ch>='0' && ch<='9')|| (Character.toLowerCase(ch)>='a' && Character.toLowerCase(ch)<='z')){
@@ -24,4 +22,3 @@ public class ValidPalindrome {
         return true;
     }
 }    
-}

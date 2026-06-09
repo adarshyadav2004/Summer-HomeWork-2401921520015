@@ -1,5 +1,3 @@
-
-    public class ReverseString {
     class Solution {
     public void reverseString(char[] s) {
         int start=0;
@@ -14,8 +12,6 @@
     
         }
     }
-}
-    
 }
 
     

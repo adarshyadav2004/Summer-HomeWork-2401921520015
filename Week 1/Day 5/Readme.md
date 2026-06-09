@@ -153,4 +153,3 @@ After completing these problems, you will understand:
 - Java Developer
 - Data Structures & Algorithms Enthusiast
 - Problem Solver
-- Competitive Programming Learner
