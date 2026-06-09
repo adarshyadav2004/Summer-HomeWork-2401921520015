@@ -1,6 +1,3 @@
-//package Week 1.Day 1;
-
-public class TwoSum {
     class Solution {
     public int[] twoSum(int[] nums, int target) {
         int [] ans= new int[2];
@@ -17,4 +14,4 @@ public class TwoSum {
     }
 }
     
-}
+

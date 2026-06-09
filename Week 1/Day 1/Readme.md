@@ -156,7 +156,7 @@ java BestTimeToBuyAndSellStock
 
 ## Author
 
-**Adarsh Yadav**
+**Adarsh kumar**
 
 GitHub: https://github.com/adarshyadav2004
 
