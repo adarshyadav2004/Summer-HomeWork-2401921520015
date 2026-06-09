@@ -1,6 +1,3 @@
-//package Week1.Day2;
-
-public class MaximumAverageSubarrayI {
     class Solution {
     public double findMaxAverage(int[] nums, int k) {
         int currsum = 0;
@@ -17,6 +14,4 @@ public class MaximumAverageSubarrayI {
         }
         return (double) maxsum / k;
     }
-}
-    
 }

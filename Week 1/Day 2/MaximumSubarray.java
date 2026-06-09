@@ -1,6 +1,3 @@
-//package Week 1.Day 2;
-
-public class MaximumSubarray {
     class Solution {
     public int maxSubArray(int[] nums) {
         int currsum=nums[0];
@@ -16,6 +13,4 @@ public class MaximumSubarray {
         }
         return maxsum;
     }
-}
-    
 }

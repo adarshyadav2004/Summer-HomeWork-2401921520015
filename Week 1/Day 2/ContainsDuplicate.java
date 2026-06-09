@@ -1,7 +1,4 @@
-//package Week 1.Day 2;
 import java.util.*;
-
-public class ContainsDuplicate {
     class Solution {
     public boolean containsDuplicate(int[] nums) {
         HashSet<Integer>set=new HashSet<>();
@@ -13,6 +10,4 @@ public class ContainsDuplicate {
         }
         return false;
 }
-}
-    
 }
