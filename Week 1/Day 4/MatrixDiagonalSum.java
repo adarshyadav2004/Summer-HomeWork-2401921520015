@@ -1,4 +1,3 @@
-public class MatrixDiagonalSum {
     class Solution {
     public int diagonalSum(int[][] mat) {
         int sum=0;
@@ -15,6 +14,4 @@ public class MatrixDiagonalSum {
         return sum;
         
     }
-}
-    
 }

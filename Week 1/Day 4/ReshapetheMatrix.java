@@ -1,4 +1,3 @@
-public class ReshapetheMatrix {
 class Solution {
     public int[][] matrixReshape(int[][] mat, int r, int c) {
         int rows= mat.length;
@@ -13,6 +12,4 @@ class Solution {
         }
         return result;
     }
-}
-    
 }

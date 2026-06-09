@@ -1,6 +1,5 @@
 import java.util.*;
 import java.util.List;
-public class SpiralMatrix {
     class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
 
@@ -49,6 +48,4 @@ public class SpiralMatrix {
         return result;
         
     }
-}
-    
 }
