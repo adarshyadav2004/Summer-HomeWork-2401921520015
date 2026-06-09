@@ -99,4 +99,4 @@ java LibraryU
 
 ## Author
 
-Created as a Java OOP practice project demonstrating interface implementation and user-specific business rules.
+Created as a Java OOP practice project demonstrating interface implementation and user-specific business.
