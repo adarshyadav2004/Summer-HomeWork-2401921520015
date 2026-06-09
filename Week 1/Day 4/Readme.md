@@ -96,4 +96,3 @@ After each traversal, update the corresponding boundary.
 ```bash
 javac MatrixDiagonalSum.java
 javac ReshapetheMatrix.java
-javac SpiralMatrix.java
